@@ -23,8 +23,5 @@ spring:
   h2.console.enabled: true
   sql.init.mode: always
 
----
 
-spring:
-  config.activate.on-profile: testdb
 
